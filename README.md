@@ -47,7 +47,7 @@ This project focuses on building a practical conversational interface for e-comm
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Fashion.git
+git clone https://github.com/Spideykook/Fashion.git
 cd Fashion
 ```
 
