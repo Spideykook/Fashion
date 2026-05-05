@@ -1,6 +1,6 @@
-# 🛍️ ShopAI – AI Shopping Assistant
+# 🛍️ Fashion – AI Shopping Assistant
 
-ShopAI is a Django-based conversational shopping assistant that allows users to search for products and get support-related answers using natural language.
+Fashion is a Django-based conversational shopping assistant that allows users to search for products and get support-related answers using natural language.
 
 Instead of browsing through filters or categories, users can simply ask:
 
